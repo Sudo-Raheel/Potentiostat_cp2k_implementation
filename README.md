@@ -15,5 +15,5 @@ The code workflow and benchmarks for the gold-water system are shown below:
 **Structure**  
 <img src="pictures/struc.png" alt="Structure" width="300"/>
 
-**Dipole Potential vs Number of MD Steps (Time)**  
+**Dipole Potential vs Number of MD Steps (Time) , Target potential=4.0 Volts**  
 <img src="pictures/benchmark.png" alt="Benchmark" width="410"/>
