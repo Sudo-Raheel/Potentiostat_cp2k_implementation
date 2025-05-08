@@ -9,11 +9,11 @@ The full code and an in-depth explanation of the changes will be added to the re
 
 The code workflow and benchmarks for the gold-water system are shown below:
 
-Worflow for the thermopotentiostat
-![Workflow](pictures/workflow.png)  
+**Workflow for the thermopotentiostat**  
+<img src="pictures/workflow.png" alt="Workflow" width="600"/>
 
-Structure 
-![strucutre](pictures/struc.png)
+**Structure**  
+<img src="pictures/struc.png" alt="Structure" width="200"/>
 
-Dipole Potential vs number of MD steps(time)
-![bench](pictures/benchmark.png)
+**Dipole Potential vs Number of MD Steps (Time)**  
+<img src="pictures/benchmark.png" alt="Benchmark" width="1000"/>
