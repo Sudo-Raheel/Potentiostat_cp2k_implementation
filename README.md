@@ -16,4 +16,4 @@ The code workflow and benchmarks for the gold-water system are shown below:
 <img src="pictures/struc.png" alt="Structure" width="300"/>
 
 **Dipole Potential vs Number of MD Steps (Time)**  
-<img src="pictures/benchmark.png" alt="Benchmark" width="400"/>
+<img src="pictures/benchmark.png" alt="Benchmark" width="410"/>
