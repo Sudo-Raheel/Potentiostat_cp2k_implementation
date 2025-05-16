@@ -4,6 +4,7 @@ This repository serves as a tutorial for implementing functionalities in [CP2K](
 Currently, the repository contains benchmarks and the workflow of the algorithm.
 
 The full code and an in-depth explanation of the changes will be added to the repository once the paper is published.
+Till the publication, the exact thermo-potentiostat code cannot be shared, However the basics of implementation in cp2k is provided in 
 
 ## Code Workflow and Benchmarks
 
