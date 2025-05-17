@@ -1,7 +1,7 @@
 # Potentiostat_cp2k_implementation
 
 This repository serves as a tutorial for implementing functionalities in [CP2K](https://github.com/cp2k/cp2k).  
-Currently, the repository contains benchmarks and the workflow of the algorithm.
+Currently, the repository contains benchmarks and the workflow of the algorithm.(It's still under construction) 
 
 The full code and an in-depth explanation of the changes will be added to the repository once the paper is published.
 Till the publication, the exact thermo-potentiostat code cannot be shared, However the basics of implementation in cp2k is provided in 
